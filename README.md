@@ -1,4 +1,5 @@
-### Hi there 👋
+### HELLO THERE, 
+## Welcome to the Profile of Amandeep Singh,
 
 <!--
 **Amandeepsingh5/Amandeepsingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://user-images.githubusercontent.com/34280127/99493073-989af200-293c-11eb-9270-1fb834a52b53.png)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=amandeepsingh5)
